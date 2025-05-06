@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/mongodb.png">
   <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/react.png">
   <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/express.png">
-  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/php_logo.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/php_icon.png">
   <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/mysql.png">
   <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/python.png">
   <h2>My links 🔗</h2>
