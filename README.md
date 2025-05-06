@@ -31,6 +31,7 @@
 
   <h2>About me</h2>
 
+</div>
   ```json
   {
     "name": "Jules Hémery",
@@ -55,4 +56,3 @@
     }
   }
   ```
-</div>
