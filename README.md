@@ -1,4 +1,6 @@
+<div>
 <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=timeGradient&text=Couvbat&reversal=true&textBg=false&desc=Full-Stack%20Web%20Dev&section=header"
+</div>
 
 <div align="center">
 
@@ -32,6 +34,7 @@
   <h2>About me</h2>
 
 </div>
+<div>
 ```json
 {
   "name": "Jules Hémery",
@@ -56,3 +59,4 @@
   }
 }
 ```
+</div>
