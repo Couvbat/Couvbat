@@ -1,8 +1,6 @@
-<div>
+<img src="<https://capsule-render.vercel.app/api?type=blur&height=250&color=timeGradient&text=Couvbat&reversal=true&textBg=false&desc=Full-Stack%20Web%20Dev&section=header>"
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=timeGradient&text=Couvbat&reversal=true&textBg=false&desc=Full-Stack%20Web%20Dev&section=header"
-
-  <div align="center">
+<div align="center">
 
   <h2>My Stack 🖥️</h2>
 
@@ -59,5 +57,3 @@
   }
 }
 ```
-
-</div>
