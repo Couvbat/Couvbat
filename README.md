@@ -9,4 +9,7 @@
   <a href="https://discord.com/channels/321278246824181761">
     <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/4373196_discord_logo_logos_icon.png">
   </a>
+  <a href="https://www.in-leed.com/">
+    <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/inleed.png">
+  </a>
 </div>
