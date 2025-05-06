@@ -3,6 +3,8 @@
 </p>
 
 <div align="center">
+  <h2>My links 🔗</h2>
+  <hr>
   <a href="https://www.linkedin.com/in/jules-h%C3%A9mery-338134195/" target="blank">
     <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/5296501_linkedin_network_linkedin%20logo_icon.png">
   </a>
@@ -12,4 +14,17 @@
   <a href="https://www.in-leed.com/">
     <img height="48px" src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/inleed.png">
   </a>
+  <h2>My Stack 🖥️</h2>
+  <hr>
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/archlinux.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/vim.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/git.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/bash_white.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/typescript.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/mongodb.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/react.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/express.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/php.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/mysql.png">
+  <img src="https://raw.githubusercontent.com/Couvbat/Couvbat/refs/heads/main/src/python.png">
 </div>
