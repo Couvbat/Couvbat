@@ -1,4 +1,6 @@
-<img src="<https://capsule-render.vercel.app/api?type=blur&height=250&color=timeGradient&text=Couvbat&reversal=true&textBg=false&desc=Full-Stack%20Web%20Dev&section=header>"
+<p>
+  <img src="<https://capsule-render.vercel.app/api?type=blur&height=250&color=timeGradient&text=Couvbat&reversal=true&textBg=false&desc=Full-Stack%20Web%20Dev&section=header>"
+</p>
 
 <div align="center">
 
